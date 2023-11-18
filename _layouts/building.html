@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/style.css"/>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include header.html %}
+    <h1>{{ page.title }}</h1>
+    <p class="address">{{ page.address_st }}, {{ page.address_no}}</p>
+    <p class="address_note">{{ page.address_note }}</p>
+    <p class="title_orig"><b>{{ page.title_orig }}</b></h>
+    <p class="date">{{ page.date_display }}</p>
+    <p class="authors">{{ page.authors }}</p>
+    {{ content }}
+    {% include footer.html %}
+  </body>
+</html>

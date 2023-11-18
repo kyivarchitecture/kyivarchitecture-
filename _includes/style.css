@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,400&family=Noto+Sans:wght@300&display=swap');
+
+
+
+body {
+	font-family: "Noto Sans", sans-serif ;
+}
+
+p.address {
+	color: darkslategrey;
+};
+
+p.title_orig {
+	font-family: "Noto Sans", sans-serif ;
+	font-size: 32px;
+};
+
+
+h1 {
+	font-family: "Noto Sans", sans-serif ;
+	font-size: 32px;
+};
+
+h2 {
+	font-family: "Noto Sans", sans-serif ;
+	font-size: 22px !important;
+};

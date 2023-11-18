@@ -1,0 +1,1 @@
+<a href="{{ post.url }}"><b>{{ post.title }}</b></a> <span class="feed_name_orig" style="color:darkolivegreen;">{{ post.title_orig }}</span> <span class="feed_address">{{ post.address_st }} {{ post.address_no }}</span>

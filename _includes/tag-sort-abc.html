@@ -1,0 +1,29 @@
+<script>
+
+document.addEventListener("DOMContentLoaded", function() {
+    var container = document.getElementById("container");
+    var divs = container.getElementsByTagName("div");
+
+    var classesArray = [];
+    var divsMap = {};
+
+    // Get classes and map them to respective divs
+    for (var i = 0; i < divs.length; i++) {
+        var className = divs[i].className;
+        classesArray.push(className);
+        divsMap[className] = divs[i];
+    }
+
+    classesArray.sort();
+
+    // Clear existing container content
+    container.innerHTML = "";
+
+    // Append divs back to the container in sorted order
+    for (var j = 0; j < classesArray.length; j++) {
+        var sortedDiv = divsMap[classesArray[j]];
+        container.appendChild(sortedDiv);
+    }
+});
+
+</script>

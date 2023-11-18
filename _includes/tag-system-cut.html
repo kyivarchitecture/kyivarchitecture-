@@ -1,0 +1,9 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var bodyContent = document.body.innerHTML;
+    var modifiedContent1 = bodyContent.replace(/_person_/g, '');
+    var modifiedContent2 = modifiedContent1.replace(/_street_/g, '');
+    var modifiedContent3 = modifiedContent2.replace(/_loc_/g, '');
+    var modifiedContent4 = modifiedContent3.replace(/_decade_/g, '');
+    document.body.innerHTML = modifiedContent4;
+});</script>
