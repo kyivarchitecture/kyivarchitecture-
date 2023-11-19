@@ -5,7 +5,7 @@ title_orig: "попередня або історичня назва"
 address_st: "вулиця" # обов'язково мін. 1 поле з address_*
 address_no: "1"
 adress_note: ""
-date_list: 1000-01-01 # обов'яз.
+date: 1000-01-01 # обов'яз.
 date_display: "рік" # обов'яз.
 date_lost:
 date_lost_display: ""

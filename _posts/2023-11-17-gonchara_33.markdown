@@ -9,8 +9,8 @@ date: 1907-01-01
 date_display: "1907"
 date_lost:
 date_lost_display: ""
-page_brief: "Пам'ятка з виразним інтер'єром та воротами в стилі ар-нуво"
-tags: ["_person_Ледоховський, Ігнатій","_person_Маковський, І.С.","_person_Столипін, Петро","_person_Гімар, Ектор","_street_Гончара","_loc_Центр міста","_era_1910-ті"]
+page_brief: ""
+tags: ["_person_Ледоховський, Ігнатій","_person_Гімар, Ектор","_street_Гончара","_loc_Центр міста","_era_1910-ті"]
 permalink: /honchara/33
 page_author: "Андрій Волотковський"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: building
-title:  "Ендокринологічний центр"
-title_orig: "Флігель садиби Товариства швидкої медичної допомоги"
+title:  "Флігель садиби Товариства швидкої медичної допомоги"
+title_orig: ""
 address_st: "Гончара"
 address_no: "21"
 adress_note: ""
@@ -10,7 +10,7 @@ date_display: "1913-1915"
 date_lost:
 date_lost_display: ""
 page_brief: ""
-tags: ["_arch_Йосип Зекцер","_street_Гончара","_loc_Центр міста"]
+tags: ["_person_Зекцер, Йосип","_street_Гончара","_loc_Центр міста"]
 permalink: honchara/21
 ---
 Архітектор Йосип Зекцер[^1].

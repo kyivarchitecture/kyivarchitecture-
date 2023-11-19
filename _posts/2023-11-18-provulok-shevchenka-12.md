@@ -22,4 +22,4 @@ permalink: /provulok-shevchenka/12
 
 ## Джерела
 [^1]: [Козлова К. 25 найгірших сучасних будівель Києва. Bird in Flight.](https://birdinflight.com/uk/architectura-uk/25-najgirshih-suchasnih-budivel-kiyeva.html)
-[^2]: [Проект реконструкции Проминвестбанка. Арх. С. Бабушкин. (вариант). Макетная мастерская ЧП «Формат».](https://birdinflight.com/uk/architectura-uk/25-najgirshih-suchasnih-budivel-kiyeva.html) <i>[Архів оригіналу від 18.11.2023](https://archive.is/wip/M2zq4)</i>
+[^2]: [Проект реконструкции Проминвестбанка. Арх. С. Бабушкин. (вариант). Макетная мастерская ЧП «Формат».](https://format.com.ua/ru/Maketi_Archive/62#) <i>[Архів оригіналу від 18.11.2023](https://archive.is/wip/M2zq4)</i>
