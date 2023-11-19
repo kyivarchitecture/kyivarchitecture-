@@ -34,7 +34,9 @@ page_author: "Андрій Волотковський"
 
 ## Сучасність
 
-В 1999—2005 роках здійснено реконструкція до рівня п'ятизіркового готелю (арх. С.&nbsp;Бабушкін, М.&nbsp;Дьомін, В.&nbsp;Рубштейн, В.&nbsp;Смирнов (2001)[^1].)
+В 1999—2005 роках здійснено реконструкція до рівня п'ятизіркового готелю (арх. С.&nbsp;Бабушкін, М.&nbsp;Дьомін, В.&nbsp;Рубштейн, В.&nbsp;Смирнов)
+
+В серпні 2001 року перейменовано на «Прем'єр Палац».[^1]
 
 ## Джерела
 [^1]: [Михайло Кальницький, Сергій Кот, Лариса Толочко. Звід пам'яток Історії та Культури (pamyatky.kiev.ua). Дата доступу 18 листопада 2023](https://pamyatky.kiev.ua/streets/shevchenka-bulv/gotel-palast-kin-19-poch-20-st_-v-yakomu-pidpisav-zrechennya-getman-skoropadskiy-p-p_-mistilisya-pidrozdili-narodnogo-komisariatu-osviti-usrr-prozhivali-vidomi-diyachi-nauki-i-kulturi)
