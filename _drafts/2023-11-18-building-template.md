@@ -1,18 +1,18 @@
 ---
 layout: building
-title:  "сучасна назва"
-title_orig: ""
-address_st: "вулиця"
+title:  "назва" # обов'яз.
+title_orig: "попередня або історичня назва"
+address_st: "вулиця" # обов'язково мін. 1 поле з address_*
 address_no: "1"
 adress_note: ""
-date_list: 1000-01-01
-date_display: "рік"
+date_list: 1000-01-01 # обов'яз.
+date_display: "рік" # обов'яз.
 date_lost:
 date_lost_display: ""
 page_brief: ""
-categories: template
+categories: template # видалити
 tags: ["_person_","_street_","_loc_Центр міста"]
-permalink:
+permalink: # обов'яз.
 ---
 
 Архітектор
