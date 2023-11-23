@@ -13,7 +13,7 @@ permalink: persons
 <div class="{{ tag[0] }}">
   <h3>{{ tag[0] }}</h3>
   <ul>
-    {% for post in tag[1] | sort: "tag[1]" %}
+    {% for post in tag[1] reversed | sort: "tag[1]" %}
       <li>{% include post-link.html %}</li>
     {% endfor %}
   </ul>

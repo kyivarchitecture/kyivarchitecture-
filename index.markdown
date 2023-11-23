@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     <li>
       {% include post-link.html %}
     </li>
